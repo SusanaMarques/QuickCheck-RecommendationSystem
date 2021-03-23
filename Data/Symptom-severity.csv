@@ -44,7 +44,7 @@ mild_fever,5
 yellow_urine,4
 yellowing_of_eyes,4
 acute_liver_failure,6
-fluid_overload,6
+fluid_overload,5
 swelling_of_stomach,7
 swelled_lymph_nodes,6
 malaise,6
@@ -116,7 +116,6 @@ coma,7
 stomach_bleeding,6
 distention_of_abdomen,4
 history_of_alcohol_consumption,5
-fluid_overload,4
 blood_in_sputum,5
 prominent_veins_on_calf,6
 palpitations,4
@@ -131,4 +130,3 @@ inflammatory_nails,2
 blister,4
 red_sore_around_nose,2
 yellow_crust_ooze,3
-prognosis,5
