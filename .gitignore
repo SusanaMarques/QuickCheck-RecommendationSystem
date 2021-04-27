@@ -26,3 +26,4 @@ yarn-error.log*
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+models

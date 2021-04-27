@@ -1,2 +1,2 @@
-model_checkpoint_path: "DropoutSmall_82epoch"
-all_model_checkpoint_paths: "DropoutSmall_82epoch"
+model_checkpoint_path: "M_80epLossMin"
+all_model_checkpoint_paths: "M_80epLossMin"
