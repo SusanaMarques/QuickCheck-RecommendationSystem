@@ -1,4 +1,4 @@
-# Machine Learning Models + Benchamrking
+# Machine Learning Models + Benchmarking
 
 <p> <b> Code developped to support the paper: </b> Recommendation of Medical Exams to Support Clinical Diagnose Based on Patient’s Symptoms 
 
