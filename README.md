@@ -2,7 +2,7 @@
 
 <p> <b> Code developped to support the paper: </b> Recommendation of Medical Exams to Support Clinical Diagnose Based on Patient’s Symptoms 
 
-:stethoscope: :pill: :syringe:  [Paper can be found here](https://github.com/SusanaMarques/QuickCheck-RecommendationSystem/blob/master/paper.pdf) :stethoscope: :pill: :syringe:
+:pill: :syringe:  [Paper can be found here](https://github.com/SusanaMarques/QuickCheck-RecommendationSystem/blob/master/paper.pdf) :pill: :syringe:
 
 
 ### <p> <b> Machine learning models developped:</b>
@@ -21,9 +21,9 @@
 - Naive Bayes
 
 
-#### :stethoscope: The code of the webApp developped to aid health care professionals in their decision making process can be found [here](https://github.com/SusanaMarques/QuickCheck-WebApp) :stethoscope:
+#### :pill: The code of the webApp developped to aid health care professionals in their decision making process can be found [here](https://github.com/SusanaMarques/QuickCheck-WebApp) :pill:
 
   
-  #### By: [Susana](https://github.com/SusanaMarques) :stethoscope: [Hugo](https://github.com/hchexy)  :pill:  [Maria](https://github.com/mariajbp) :syringe:
+  #### By: [Susana](https://github.com/SusanaMarques) :pill::syringe: [Hugo](https://github.com/hchexy)  :pill::syringe:  [Maria](https://github.com/mariajbp)   :pill: :syringe:
 
 
