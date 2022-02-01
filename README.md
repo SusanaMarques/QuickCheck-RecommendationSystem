@@ -21,7 +21,7 @@
 - Naive Bayes
 
 
-#### :stethoscope: The code of the webApp developped to aid health care professionals in their decision making process can be found [here](https://github.com/mariajbp/QuickCheck) :stethoscope:
+#### :stethoscope: The code of the webApp developped to aid health care professionals in their decision making process can be found [here]https://github.com/SusanaMarques/QuickCheck-WebApp) :stethoscope:
 
   
   #### By: [Maria](https://github.com/mariajbp) :stethoscope: [Hugo](https://github.com/hchexy)  :pill:  [Susana](https://github.com/SusanaMarques)  :syringe:
