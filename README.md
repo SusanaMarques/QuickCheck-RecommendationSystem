@@ -12,7 +12,7 @@
 
 - KNN
 
-- Decisition Tree
+- Decision Tree
 
 - Random Forest 
 
