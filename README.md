@@ -1,6 +1,6 @@
 # Machine Learning Models + Benchmarking
 
-<p> <b> Code developped to support the paper: </b> Recommendation of Medical Exams to Support Clinical Diagnose Based on Patient’s Symptoms 
+<p> <b> Code developed to support the paper: </b> Recommendation of Medical Exams to Support Clinical Diagnose Based on Patient’s Symptoms 
 
 :pill: :syringe:  [Paper can be found here](https://github.com/SusanaMarques/QuickCheck-RecommendationSystem/blob/master/paper.pdf) :pill: :syringe:
 
