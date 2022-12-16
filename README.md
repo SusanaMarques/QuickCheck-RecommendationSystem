@@ -26,5 +26,3 @@
   
   #### By: [Susana](https://github.com/SusanaMarques) :pill::syringe: [Hugo](https://github.com/hchexy)  :pill::syringe:  [Maria](https://github.com/mariajbp)   :pill: :syringe:
 
-
-f
